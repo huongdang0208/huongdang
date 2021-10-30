@@ -1,0 +1,10 @@
+git status
+git add . - add all change file
+git add "file source" -- add file
+git commit -m "message"
+git push
+git stash
+git stash apply
+git pull origin "branch"
+git reset
+git reset --soft head~1
